@@ -9,6 +9,10 @@ Nebenbei baue ich Projekte um meine Entwicklerkenntnisse auszubauen.
 
 ## Projekte
 
+**[DevOps-Project-Two-Tier-Flask-App](https://github.com/bauerjonathan/DevOps-Project-Two-Tier-Flask-App)**  
+Automatisierte CI/CD-Pipeline für eine Two-Tier Flask/MySQL-Anwendung auf Microsoft Azure – containerisiert mit Docker, deployt via Jenkins mit GitHub-Webhook-Integration.
+`Python` `Flask` `MySQL` `Docker` `Jenkins` `Azure`
+
 **[JobTracker API](https://github.com/bauerjonathan/jobtracker-api)**  
 Full-Stack Bewerbungstracker – Spring Boot REST API mit JWT Auth, PostgreSQL, Docker und React Frontend.  
 `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Docker` `React` `TypeScript`
